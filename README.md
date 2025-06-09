@@ -276,22 +276,28 @@ The model was primarily evaluated using a Nearest Neighbors (KNN) approach to re
 
 
 4.2 Outputs
+
+
 <img width="455" alt="image" src="https://github.com/user-attachments/assets/127ee7ce-5aab-4eef-993b-91b4056d9da7" />
 
  
-Figure 1 – Food Recommendation Form Part 1
-
- 
-Figure 2 - Food Recommendation Form Part 2
+<img width="455" alt="image" src="https://github.com/user-attachments/assets/e71fb537-cf91-4b66-b1d9-7b191b3aeb45" />
 
 
  
-Figure 3 – Recommendations for Non-Vegetarian
+<img width="455" alt="image" src="https://github.com/user-attachments/assets/db1c142d-4dc1-49b1-841f-c14e204b361d" />
+
+
 
  
-Figure 4 – Recommendations for Vegetarian
+<img width="455" alt="image" src="https://github.com/user-attachments/assets/589abec7-7d35-40b9-b30a-8cac9d7e8f38" />
+
+
  
-Figure 5 – Recommendations for Different Activity and Allergy inputs
+<img width="455" alt="image" src="https://github.com/user-attachments/assets/946857e0-27e9-4206-a7b4-c871c3e184d4" />
+
+ 
+
 
 
 

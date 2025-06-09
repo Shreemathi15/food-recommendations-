@@ -276,6 +276,8 @@ The model was primarily evaluated using a Nearest Neighbors (KNN) approach to re
 
 
 4.2 Outputs
+<img width="455" alt="image" src="https://github.com/user-attachments/assets/127ee7ce-5aab-4eef-993b-91b4056d9da7" />
+
  
 Figure 1 – Food Recommendation Form Part 1
 
